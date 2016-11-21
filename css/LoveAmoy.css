@@ -1,0 +1,9 @@
+#LoveAmoy .slider{
+    height: 100%; /*全屏*/
+    text-align: center;
+}
+#LoveAmoy .slider-slide{
+    height: 100%;
+    font-size: 20em;
+    padding-top: 100px;
+}

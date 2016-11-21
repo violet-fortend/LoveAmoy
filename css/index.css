@@ -1,0 +1,13 @@
+#loveTabs .tab-item .icon {
+    height: 28px;
+    font-size: 28px;
+}
+.bar.bar-assertive,.tabs.tabs-assertive{
+    border-color: red;
+    background-color: red;
+   opacity: 1;
+    color: #fff;
+}
+.assertive{
+    color: red;
+}
